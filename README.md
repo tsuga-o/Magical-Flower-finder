@@ -20,8 +20,7 @@ There are immense amount of gardening information available in internet, but it 
 
 ## How is it used?
 
-This project will collect information from varios sources. Magical Gardener recognizes flowers across various types and  
-features 
+This project will collect information from varios sources. Magical Gardener recognizes flowers across various types and features   
 * color
 * hight
 * plant spacing
