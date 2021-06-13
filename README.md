@@ -46,7 +46,7 @@ while essential floral information is provided mainly in English. Could AI combi
 
 ## What next?
 
-Magical Flower finder would not know how accurate its recommendations were, if it users do not give it feedback. In order to learn and develop, Magical Flower finder would benefit for a interactive experiences such us a hub where users share Magical Gardener´s recommendations.
+Magical Flower finder would not know how accurate its recommendations were, if it users do not give it feedback. In order to learn and develop, Magical Flower finder would benefit for a interactive experiences such us a hub where users share Magical Flower finder´s recommendations.
 
 
 ## Acknowledgments
